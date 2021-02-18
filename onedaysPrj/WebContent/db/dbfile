@@ -1,3 +1,5 @@
+/* onedays db */
+
 DROP TABLE MEMBERS
     CASCADE CONSTRAINTS;
   
